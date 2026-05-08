@@ -25,8 +25,7 @@ SHELL: Learning Shell Scripting
 UPTIME: Student @ SENAI Suíço-Brasileiroo
 IDE: IntelliJ
 LANGS:Java,
-FUTURE: Sucess is my only option.
-```
+
 
 
 <br clear="right"/>
