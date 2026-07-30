@@ -27,7 +27,11 @@ IDE: IntelliJ IDEA
 </p>
 
 
-<Instagram
+<br clear="right"/>
+​<div align="center">
+​<a href="https://instagram.com/levwzz" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
 ​</div>
 ​My Stack
 ​<div align="left">
