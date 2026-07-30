@@ -36,7 +36,6 @@ IDE: IntelliJ IDEA
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="25" alt="intellij logo" />
-<img width="8" />
 </div>
 ​<div align="center">
 <img src="https://streak-stats.demolab.com?user=levwzz&locale=en&mode=daily&theme=dark" />
