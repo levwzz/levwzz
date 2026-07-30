@@ -1,18 +1,5 @@
 
-  <div align="center">
-  <img width="800" height="414" alt="not mine" src="https://github.com/user-attachments/assets/2afc6b7e-1834-4f9b-8062-78c1507e8a75" />
 
-</div>
-
-
-<div align="center">
-
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quintessential&pause=1000&color=CD1633&width=600&lines=People+cannot+be+answers.+They+are+just+more+questions;That+day%2C+I+learned+that+silence+makes+a+lot+of+noise.+It's+deafening." alt="Typing SVG" /></a>
-
-</div>
-
----
 
 ### 👤 Profile:
 <img align="right" width="250" alt="icon" alt="افتار انمي" src="https://github.com/user-attachments/assets/7c4f4fc7-12f8-41e3-8d90-a9579b91c88b" />
