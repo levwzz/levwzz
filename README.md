@@ -20,11 +20,10 @@
 ```
 levwzz
 ──────────────────────────────
-OS: Windows 11 
-ROLE: Systems Developer Student 
+SO: Windows 11 
+CARGO: Estudante de Dev de Sistemas 
 CORE: Java & JavaScript
 IDE: IntelliJ IDEA
-STATUS: Building backend systems & exploring AI
 
 
 
