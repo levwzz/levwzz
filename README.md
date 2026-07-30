@@ -2,8 +2,8 @@
 
 
 ### 👤 Profile:
-<img align="right" width="250" alt="icon" alt="افتار انمي" src="<a href="https://imgbb.com/"><img src="https://i.ibb.co/GfxMXYk6/da318e3dd2189cef922c762484bdbf9e.jpg" alt="da318e3dd2189cef922c762484bdbf9e" border="0"></a>" 
-```
+<img align="right" width="180" src="<a href="https://imgbb.com/"><img src="https://i.ibb.co/GfxMXYk6/da318e3dd2189cef922c762484bdbf9e.jpg" alt="da318e3dd2189cef922c762484bdbf9e" border="0"></a>" />
+...
 levwzz
 ──────────────────────────────
 SO: Windows 11 
