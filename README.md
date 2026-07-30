@@ -19,12 +19,13 @@
 
 ```
 levwzz
-OS: Windows 11
-KERNEL: Studying Programming and Technology
-SHELL: Learning Shell Scripting
-UPTIME: Student @ SENAI Suíço-Brasileiroo
-IDE: IntelliJ
-LANGS:Java,
+──────────────────────────────
+OS: Windows 11 
+ROLE: Systems Developer Student 
+CORE: Java & JavaScript
+IDE: IntelliJ IDEA
+STATUS: Building backend systems & exploring AI
+
 
 
 ```
