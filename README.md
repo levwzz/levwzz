@@ -1,7 +1,7 @@
 
 
 
-<<h3>👤 Profile:</h3>
+<h3>👤 Profile:</h3>
 
 <img align="right" width="220" src="https://i.ibb.co/GfxMXYk6/da318e3dd2189cef922c762484bdbf9e.jpg" />
 
