@@ -2,7 +2,7 @@
 
 
 ### 👤 Profile:
-<img align="right" width="250" alt="icon" alt="افتار انمي" src="https://share.google/fg5uLTlYodCeEEB6R" />
+<img align="right" width="250" alt="icon" alt="افتار انمي" src="https://ibb.co/HLFP0wYS" />
 
 ```
 levwzz
