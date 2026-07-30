@@ -11,7 +11,8 @@ levwzz
 SO: Windows 11
 CARGO: Estudante de Dev de Sistemas
 CORE: Java & JavaScript
-IDE: IntelliJ IDEA```
+IDE: IntelliJ IDEA
+```
 
 
 ---
