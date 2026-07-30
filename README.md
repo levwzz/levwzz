@@ -2,7 +2,7 @@
 
 
 ### 👤 Profile:
-<img align="right" width="250" alt="icon" alt="افتار انمي" src="https://github.com/user-attachments/assets/7c4f4fc7-12f8-41e3-8d90-a9579b91c88b" />
+<img align="right" width="250" alt="icon" alt="افتار انمي" src="https://pin.it/37uNmiPF1" />
 
 ```
 levwzz
