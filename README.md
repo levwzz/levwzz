@@ -1,19 +1,19 @@
 
 
 
-### 👤 Profile:
-<img align="right" width="180" src="<a href="https://imgbb.com/"><img src="https://i.ibb.co/GfxMXYk6/da318e3dd2189cef922c762484bdbf9e.jpg" alt="da318e3dd2189cef922c762484bdbf9e" border="0"></a>" />
-...
+<h3>👤 Profile:</h3>
+
+<img align="right" width="180" src="https://i.ibb.co/GfxMXYk6/da318e3dd2189cef922c762484bdbf9e.jpg" />
+
+```markdown
 levwzz
 ──────────────────────────────
-SO: Windows 11 
-CARGO: Estudante de Dev de Sistemas 
+SO: Windows 11 / Linux (WSL)
+CARGO: Estudante de Dev de Sistemas @ SENAI
 CORE: Java & JavaScript
 IDE: IntelliJ IDEA
+STATUS: Criando sistemas backend & explorando IA
 
-
-
-```
 <br clear="right"/>
 
 ---
